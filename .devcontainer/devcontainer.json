@@ -8,7 +8,8 @@
         "extensions": [
           "ms-python.python",
           "ms-python.vscode-pylance",
-          "ms-toolsai.jupyter"
+          "ms-toolsai.jupyter",
+          "Github.copilot"
         ],
         "settings": {
           "python.defaultInterpreterPath": "/usr/local/bin/python",
